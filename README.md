@@ -216,7 +216,7 @@ const swaggerDefinition = {
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/narayan2111/TO_DO_APP.git
     cd task-management-api
     ```
 
