@@ -230,7 +230,7 @@ const swaggerDefinition = {
     npm run dev
     ```
 
-The server will start on `http://localhost:3000`.
+The server will start on `http://localhost:3000/api-docs/`.
 
 ### 7. Evaluation and Best Practices
 
